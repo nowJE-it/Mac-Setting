@@ -15,3 +15,16 @@
 - 사이드바 - 홈 폴더 체크
 - 고급 - 윈도우에서(이름순으로 정렬 시) 체크
 - 보기 - 경로 막대 보기, 상태 막대 보기
+
+### 필요한 프로그램들
+- HomeBrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  - Next steps의 명령어 2개 실행해주기.
+- iTerm2: https://iterm2.com
+- zsh: brew install zsh
+  - vi ~/.zshrc > 테마 cloud 설정
+- Oh My ZSH: sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+- Chrome: https://google.co.kr/chrome
+- vsCode: https://code.visualstudio.com
+  - Shift + Command + P: code 명령어 설치
+- Notion: https://www.notion.so
+- Spectacle: https://www.spectacleapp.com
